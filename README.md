@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👯 I’m looking to collaborate on [Bingo Game](https://bingo-game-sand.vercel.app/)
+- 👯 I’m looking to collaborate on [NoteQuiz](https://note-quiz-seven.vercel.app/)
 
 - 🤝 I’m looking for help with [Recipe App](https://recipe-app-neon-five.vercel.app/)
 

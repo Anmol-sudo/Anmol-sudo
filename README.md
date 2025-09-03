@@ -15,8 +15,6 @@
 
 - 🤝 I’m looking for help with [Recipe App](https://recipe-app-neon-five.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://anmol-resume-cu25220262.tiiny.site/](https://anmol-resume-cu25220262.tiiny.site/)
-
 - 💬 Ask me about **C++, web development, android development**
 
 - 📫 How to reach me **anmolshiv1974@gmail.com**

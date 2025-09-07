@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **anmolshiv1974@gmail.com**
 
-- 📄 Know about my experiences [https://anmol-resume-cu25220262.tiiny.site/](https://anmol-resume-cu25220262.tiiny.site/)
-
 - ⚡ Fun fact **I am funny and imaginative**
 
 <h3 align="left">Connect with me:</h3>
